@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 -->
 
 ---
-[![Chris's github stats](https://github-readme-stats.vercel.app/apichrisminheere=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisminheere)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://alepro.nl/
