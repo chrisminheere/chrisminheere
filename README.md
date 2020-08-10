@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt="chrisminheere's Github Stats" src="https://github-readme-stats.chrisminheere.vercel.app/api?username=chrisminheere&show_icons=true&hide_border=true" />
+---
+
+<img align="left" alt="chrisminheere's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chrisminheere&show_icons=true&hide_border=true" />
 
 [website]: https://alepro.nl/
