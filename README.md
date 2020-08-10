@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Chris Minheere [a web developer][website]👋
 
 <!--
 **chrisminheere/chrisminheere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" alt="chrisminheere's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chrisminheere&show_icons=true&hide_border=true" />
+
+[website]: https://alepro.nl/
