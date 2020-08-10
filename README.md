@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 ---
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisminheere)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="left" alt="chrisminheere's Github Stats" src="https://github-readme-stats.chrisminheere.vercel.app/api?username=chrisminheere&show_icons=true&hide_border=true" />
+
 [website]: https://alepro.nl/
