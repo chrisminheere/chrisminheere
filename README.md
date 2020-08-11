@@ -1,7 +1,7 @@
-### Hi there I'm Chris Minheere [a web developer][website]👋
+### Hi there I'm Chris Minheere [a web developer]👋
 
 ## I'm a Gamer, Developer, and Teacher!
-- 🔭 I’m currently working on a [website2]!
+- 🔭 I’m currently working on a [website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I LOVE front and web development and game!
@@ -28,5 +28,5 @@
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisminheere)](https://github.com/chrisminheere/chrisminheere)
 
 
-[website2]: https://cbdpronature.nl
-[website]: https://alepro.nl/
+[website]: https://cbdpronature.nl
+
