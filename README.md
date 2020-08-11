@@ -1,6 +1,6 @@
 ## Hi there I'm Chris Minheere [a web developer][website2]👋
 
-### I'm a Gamer, Developer, and Teacher!
+### I'm a Front end web developer and Gamer!
 - 🔭 I’m currently working on a [website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -8,6 +8,13 @@
 - 💻 Tip: have you switched it off and on again?
 
 <br />
+
+
+### Connect with me:
+
+[<img align="left" alt="alepro.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
+[<img align="left" alt="chrisminheere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="chrisminheere | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Skills:
 
@@ -30,4 +37,6 @@
 
 [website]: https://cbdpronature.nl
 [website2]: https://alepro.nl/
+[instagram]: https://www.instagram.com/chrisminheere/
+[linkedin]: https://www.linkedin.com/in/chris-minheere-71199b182/
 
