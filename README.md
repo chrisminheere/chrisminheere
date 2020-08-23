@@ -18,11 +18,7 @@
 [<img align="left" alt="alepro.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
 [<img align="left" alt="chrisminheere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="chrisminheere | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="chrisminheere | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-<br />
-
-Discord: HARDFIGHTGAMING#6838
+[<img align="left" alt="chrisminheere | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] HARDFIGHTGAMING#6838
 
 <br />
 
@@ -41,5 +37,5 @@ Discord: HARDFIGHTGAMING#6838
 [website2]: https://alepro.nl/
 [instagram]: https://www.instagram.com/chrisminheere/
 [linkedin]: https://www.linkedin.com/in/chris-minheere-71199b182/
-[discord]: HARDFIGHTGAMING#6838
+[discord]: https://discord.com/
 
