@@ -1,4 +1,4 @@
-## Hi there I'm Chris Minheere a guy with a keyboard.👋
+## Hi there I'm Chris a guy with a keyboard.⌨
 
 ### I'm a guy with a hobby for programming and gaming!
 - 🔭 I’m currently working on a [website]!
