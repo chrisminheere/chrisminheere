@@ -1,9 +1,9 @@
-## Hi there I'm Chris Minheere [a web developer][website2]👋
+## Hi there I'm Chris Minheere a guy with a keyboard.👋
 
-### I'm a Front end web developer and Gamer!
+### I'm a guy with a hobby for programming and gaming!
 - 🔭 I’m currently working on a [website]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning everything. 🤣
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I LOVE front and web development and game!
 - 💻 Tip: have you switched it off and on again?
 
